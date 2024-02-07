@@ -2,7 +2,7 @@
 **Extract, transform, and load (ETL) mini project**
 
 ## Overview
-This Jupyter Notebook, ETL_Mini_Project_Starter_Code.ipynb, provides a breakdown of how to extract data from datasets, transform that data using Python and Pandas, and then load the transformed data into a SQL database.
+This Jupyter Notebook, ETL_Mini_Project_Starter_Code.ipynb in the *Project_2_Starter_Files* folder, provides a breakdown of how to extract data from datasets, transform that data using Python and Pandas, and then load the transformed data into a SQL database.
 
 ## Introduction
 The datasets for this project include contacts and crowdfunding data. Our objective was to transform and clean the data so that it is suitable to load into a SQL database.
@@ -17,7 +17,7 @@ The final step in transforming the data was creating a Contacts DataFrame from t
 ## Data Loading
 Now that we have extracted and transformed the data, we can load all the CSV files into a SQL database (into their corresponding tables). To get an idea of how each DataFrame would relate to each other, we used http://www.quickdatabasediagrams.com/ to sketch the ERD for the database (*crowdfunding_db_schema.sql*). 
 
-**Our actual database can be found as *crowdfunding_db.sql*.**
+**Our actual database can be found in the *Resources* Folder as *crowdfunding_db.sql*.**
 
 We identified the primary and foreign keys for each table as follows:
 - **Campaign**   
