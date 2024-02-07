@@ -17,6 +17,8 @@ The final step in transforming the data was creating a Contacts DataFrame from t
 ## Data Loading
 Now that we have extracted and transformed the data, we can load all the CSV files into a SQL database (into their corresponding tables). To get an idea of how each DataFrame would relate to each other, we used http://www.quickdatabasediagrams.com/ to sketch the ERD for the database (*crowdfunding_db_schema.sql*). 
 
+Our actual database can be found as *crowdfunding_db.sql*.
+
 We identified the primary and foreign keys for each table as follows:
 - **Campaign**   
     - Primary Key: *cf_id*
