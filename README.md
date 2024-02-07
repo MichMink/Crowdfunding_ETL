@@ -39,7 +39,7 @@ Category Table:
 <p align='center'> <img src='Images/category_table.png'width="400" height="400"></p>
 
 Subcategory Table:
-<p align='center'> <img src='Images/subcategory_table.png'width="400" height="400"></p>
+<p align='center'> <img src='Images/subcategory_table.png'width="500" height="500"></p>
 
 Contacts Table:
 <p align='center'> <img src='Images/contacts_table.png'width="400" height="400"></p>
