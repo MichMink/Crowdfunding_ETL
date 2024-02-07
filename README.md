@@ -30,10 +30,11 @@ We identified the primary and foreign keys for each table as follows:
 - **Contacts**
     - Primary Key: *contact_id*
 
-Final SQL tables:
+**Final SQL tables:**
 
 Campaign Table: 
 <p align='center'> <img src='Images/campaign_table.png' width="600" height="300"></p>
+<figcaption>Campaign Table:</figcaption>
 
 Category Table:
 <p align='center'> <img src='Images/category_table.png'width="400" height="400"></p>
