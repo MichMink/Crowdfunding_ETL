@@ -36,7 +36,7 @@ Campaign Table:
 <p align='center'> <img src='Images/campaign_table.png' width="600" height="300"></p>
 
 Category Table:
-<p align='center'> <img src='Images/category_table.png'width="400" height="200"></p>
+<p align='center'> <img src='Images/category_table.png'width="400" height="300"></p>
 
 Subcategory Table:
 <p align='center'> <img src='Images/subcategory_table.png'width="400" height="200"></p>
