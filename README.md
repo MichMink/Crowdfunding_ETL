@@ -19,7 +19,7 @@ Now that we have extracted and transformed the data, we can load all the CSV fil
 
 **Our actual database can be found in the *Resources* Folder as *crowdfunding_db.sql*.**
 
-<ins> We identified the primary and foreign keys for each table as follows:</ins>
+<ins> :key: We identified the primary and foreign keys for each table as follows:</ins>
 - **Campaign**   
     - Primary Key: *cf_id*
     - Foreign Keys: *category_id*, *subcategory_id*, *contact_id*
