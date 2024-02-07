@@ -1,4 +1,4 @@
-# Project2
+# Project 2
 **Extract, transform, and load (ETL) mini project**
 
 ## Overview
