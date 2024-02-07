@@ -1,4 +1,4 @@
-# Project 2
+# Crowdfunding_ETL
 **Extract, transform, and load (ETL) mini project**
 
 ## Overview
