@@ -33,7 +33,7 @@ We identified the primary and foreign keys for each table as follows:
 Final SQL tables:
 
 Campaign Table: 
-<p align='center'> <img src='Images/campaign_table.png'></p>
+<p align='center'> <img src='Images/campaign_table.png' width="200" height="100"></p>
 
 Category Table:
 <p align='center'> <img src='Images/category_table.png'></p>
